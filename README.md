@@ -171,7 +171,7 @@ bash scripts/render_mgpu_skel.sh 0 $seqname logdir/$extra_tag/$seqname-skel/para
 ## Explicit Re-posing
 We provide an example of directly re-posing the learned kinematic chain and mesh for the AMA female [here](docs/REPOSING.md). 
 
-Note that it is using our pre-trained checkpoint, so users can directly run it after installation and ANA data preparation (no training needed). 
+Note that it is using our pre-trained checkpoint, so users can directly run it after installation and AMA data preparation (no training needed). 
 
 ## Quantitative Evaluation
 Please follow the detailed instructions [here](docs/EVALUATION.md) to run quantitative evaluation for each dataset.
